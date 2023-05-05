@@ -1,16 +1,34 @@
-# shopapp
+# Shopping App
 
-A new Flutter project.
+## Welcome to our Shopping App built using Flutter!
 
-## Getting Started
+## General info
+This app allows users to browse and purchase products from a wide range of categories, making shopping convenient and hassle-free. I have created a user-friendly interface that is both visually appealing and highly functional. Here's a quick guide to help you get started:
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the project from our Github repository: https://github.com/tejaswini-dev-techie/shopping_app
+2. Install Flutter 1.17.4 on your machine
+3. Open the project in your preferred IDE (we recommend using Android Studio or Visual Studio Code)
+4. Run the app on an emulator or physical device
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Browse products by category or search for specific products
+2. Add products to your cart 
+3. View and manage your order history
+4. Save favorite products for quick access later
+
+### Technologies
+Project is created with:
+* Flutter version: 1.17.4
+* Android Studio (version 4.0)
+
+## Flutter Plugin
+* provider: ^4.1.3
+* intl: ^0.16.1
+* http: ^0.12.1
+* shared_preferences: ^0.5.7+3
+
+
+
